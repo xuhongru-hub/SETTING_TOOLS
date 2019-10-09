@@ -1,0 +1,16 @@
+E:\RD\C#\test\WFA1\WFA1\bin\Release\WFA1.exe.config
+E:\RD\C#\test\WFA1\WFA1\obj\Release\Interop.MSCommLib.dll
+E:\RD\C#\test\WFA1\WFA1\obj\Release\WFA1.csproj.ResolveComReference.cache
+E:\RD\C#\test\WFA1\WFA1\bin\Release\WFA1.exe
+E:\RD\C#\test\WFA1\WFA1\bin\Release\WFA1.pdb
+E:\RD\C#\test\WFA1\WFA1\obj\Release\WFA1.Form1.resources
+E:\RD\C#\test\WFA1\WFA1\obj\Release\WFA1.Properties.Resources.resources
+E:\RD\C#\test\WFA1\WFA1\obj\Release\WFA1.csproj.GenerateResource.Cache
+E:\RD\C#\test\WFA1\WFA1\obj\Release\WFA1.exe
+E:\RD\C#\test\WFA1\WFA1\obj\Release\WFA1.pdb
+E:\RD\C#\test\WFA1\WFA1\obj\Release\WFA1.csprojResolveAssemblyReference.cache
+E:\MQTT开发板\参数设置软件\WFA1\WFA1\bin\Release\WFA1.exe.config
+E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\Interop.MSCommLib.dll
+E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\WFA1.csproj.ResolveComReference.cache
+E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\WFA1.exe
+E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\WFA1.pdb

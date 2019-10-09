@@ -1,0 +1,11 @@
+E:\RD\C#\test\WFA1\WFA1\bin\Debug\WFA1.exe.config
+E:\RD\C#\test\WFA1\WFA1\obj\Debug\Interop.MSCommLib.dll
+E:\RD\C#\test\WFA1\WFA1\obj\Debug\WFA1.csproj.ResolveComReference.cache
+E:\RD\C#\test\WFA1\WFA1\obj\Debug\WFA1.Form1.resources
+E:\RD\C#\test\WFA1\WFA1\obj\Debug\WFA1.Properties.Resources.resources
+E:\RD\C#\test\WFA1\WFA1\obj\Debug\WFA1.csproj.GenerateResource.Cache
+E:\RD\C#\test\WFA1\WFA1\bin\Debug\WFA1.exe
+E:\RD\C#\test\WFA1\WFA1\bin\Debug\WFA1.pdb
+E:\RD\C#\test\WFA1\WFA1\obj\Debug\WFA1.exe
+E:\RD\C#\test\WFA1\WFA1\obj\Debug\WFA1.pdb
+E:\RD\C#\test\WFA1\WFA1\obj\Debug\WFA1.csprojResolveAssemblyReference.cache
