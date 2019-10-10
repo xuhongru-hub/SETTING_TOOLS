@@ -14,3 +14,9 @@ E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\Interop.MSCommLib.dll
 E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\WFA1.csproj.ResolveComReference.cache
 E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\WFA1.exe
 E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\WFA1.pdb
+E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\WFA1.csprojResolveAssemblyReference.cache
+E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\WFA1.csproj.GenerateResource.Cache
+E:\MQTT开发板\参数设置软件\WFA1\WFA1\bin\Release\WFA1.exe
+E:\MQTT开发板\参数设置软件\WFA1\WFA1\bin\Release\WFA1.pdb
+E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\parameter_handle.Form1.resources
+E:\MQTT开发板\参数设置软件\WFA1\WFA1\obj\Release\parameter_handle.Properties.Resources.resources

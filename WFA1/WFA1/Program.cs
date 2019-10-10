@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WFA1
+namespace parameter_handle
 {
     static class Program
     {

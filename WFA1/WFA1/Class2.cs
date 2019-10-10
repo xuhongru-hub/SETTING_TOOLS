@@ -138,5 +138,56 @@ namespace mySpace
                 return bt;
             }            
         }
+
+        public static int StrLength(string inputString)
+        {
+            System.Text.ASCIIEncoding ascii = new System.Text.ASCIIEncoding();
+            int tempLen = 0;
+            byte[] s = ascii.GetBytes(inputString);
+            for (int i = 0; i < s.Length; i++)
+            {
+                if ((int)s[i] == 63)
+                    tempLen += 2;
+                else
+                    tempLen += 1;
+            }
+            return tempLen;
+        }
+
+        public static byte StrCheck(byte[] s)
+        {
+            byte check = 0;
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                check += s[i];
+            }
+            return check;
+        }
+
+        public static int StrFind(string src, string obj)
+        {
+            int index;
+
+            index = obj.IndexOf(src);
+
+            return index;
+        }
+
+        public static string StrFormByteArray(byte[] bt,int len)
+        {
+            string str="";
+            char[] HexChar = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F' };
+            //bt = StrToHexByte(indata);
+            for (int i = 0; i < len; i++)
+            {
+                char hexH = HexChar[bt[i] / 16];
+                char hexL = HexChar[bt[i] % 16];
+                str += hexH.ToString();
+                str += hexL.ToString();
+                str += " ";
+            }
+            return str;
+        }
     }
 }
